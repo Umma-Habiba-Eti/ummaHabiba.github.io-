@@ -41,8 +41,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics 
+  - Machine learning
 
 education:
   - area: PhD Artificial Intelligence
