@@ -35,13 +35,9 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/ummahabiba311/profilecard/?igsh=MWI5YzU2YWx5NHRwdA==
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Umma-Habiba-Eti
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/umma-habiba-eti-57ba77328/
 
 interests:
   - Artificial Intelligence
