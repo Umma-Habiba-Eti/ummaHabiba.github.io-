@@ -17,23 +17,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Jahangirnagar University
+    url: https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ummahabibaeti@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/umma_habiba8173?s=08 
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ummahabiba311/profilecard/?igsh=MWI5YzU2YWx5NHRwdA==
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
