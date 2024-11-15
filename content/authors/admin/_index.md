@@ -57,16 +57,14 @@ education:
   - area: HSC in Science
     institution: Saidpur Govt. Science College
     date_start: 2018-01-01
-    date_end: 2020-03-20
-    summary: |
-      GPA: 5.0/5.0
+    date_end: 2020-03-20 
+    GPA: 5.0/5.0
 
   - area: SSC in Science
     institution: Cantt Public School & College,BUSMS
     date_start: 2014-01-01
     date_end: 2018-01-01
-    summary: |
-      GPA: 5.0/5.0
+    GPA: 5.0/5.0
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
