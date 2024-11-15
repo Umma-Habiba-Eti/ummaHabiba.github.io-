@@ -51,10 +51,9 @@ education:
     date_start: 2022-01-01
     date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+       button:
+      text:
+      url: 
   - area: HSC in Science
     institution: Saidpur Govt. Science College
     date_start: 2018-01-01
@@ -62,21 +61,12 @@ education:
     summary: |
       GPA: 5.0/5.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: SSC in Science
     institution: Cantt Public School & College,BUSMS
     date_start: 2014-01-01
     date_end: 2018-01-01
     summary: |
       GPA: 5.0/5.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -176,5 +166,6 @@ awards:
 ---
 
 ## About Me
+I'm [Your Name], a Computer Science and Engineering student at Jahangirnagar University. As a member of the Robotics Club, I’ve worked on projects like Line Follower Robots (LFR), Robo Soccer, and Bluetooth-controlled robots. I also have hands-on experience in IoT and Full-Stack Web Development, having completed courses in Robotics, MERN stack, and Frontend Development through platforms like FreeCodeCamp.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m passionate about robotics, IoT, and software development, and I'm always looking for opportunities to apply my skills to real-world projects. Feel free to explore my portfolio to learn more about my work!
