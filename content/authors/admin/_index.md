@@ -50,10 +50,7 @@ education:
     institution: Jahangirnagar University
     date_start: 2022-01-01
     date_end: 
-    summary: |
-       button:
-      text:
-      url: 
+ 
   - area: HSC in Science
     institution: Saidpur Govt. Science College
     date_start: 2018-01-01
