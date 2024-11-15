@@ -161,6 +161,6 @@ awards:
 ---
 
 ## About Me
-I'm [Your Name], a Computer Science and Engineering student at Jahangirnagar University. As a member of the Robotics Club, I’ve worked on projects like Line Follower Robots (LFR), Robo Soccer, and Bluetooth-controlled robots. I also have hands-on experience in IoT and Full-Stack Web Development, having completed courses in Robotics, MERN stack, and Frontend Development through platforms like FreeCodeCamp.
+I'm Umma Habiba, a Computer Science and Engineering student at Jahangirnagar University. As a member of the Robotics Club, I’ve worked on projects like Line Follower Robots (LFR), Robo Soccer, and Bluetooth-controlled robots. I also have hands-on experience in IoT and Full-Stack Web Development, having completed courses in Robotics, MERN stack, and Frontend Development through platforms like FreeCodeCamp.
 
 I'm passionate about robotics, IoT, and software development, and I'm always looking for opportunities to apply my skills to real-world projects. Feel free to explore my portfolio to learn more about my work!
