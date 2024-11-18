@@ -1,6 +1,6 @@
 ---
 title: Survey Form
-date: 2023-10-26
+date: 2024-08-10
 external_link: https://github.com/Umma-Habiba-Eti/lab-6/tree/main/SurveyForm
 tags:
   - Free Code Camp
@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+"I have completed this survey form using basic html and CSS"
 
 <!--more-->
