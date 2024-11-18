@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2024-11-18
+date: 2024-11-19
 draft: false
 ---
 
@@ -8,8 +8,8 @@ draft: false
 
 Feel free to get in touch with me if you have any questions or want to connect!
 
-- ###### **Email:** parvinsultanaac@gmail.com
-- ###### **Phone:** 017****66
-- [facebook] https://www.facebook.com/faria.sultana.18041
-- [LinkedIn] https://www.linkedin.com/
-- [GitHub] https://github.com/Ananya394
+- ###### **Email:** ummahabibaeti@gmail.com
+- ###### **Phone:** 01719186576
+- [facebook] https://www.facebook.com/share/1APi1TGVLQ/?mibextid=qi2Omg
+- [LinkedIn] https://www.linkedin.com/in/umma-habiba-eti-57ba77328/
+- [GitHub] https://github.com/Umma-Habiba-Eti
