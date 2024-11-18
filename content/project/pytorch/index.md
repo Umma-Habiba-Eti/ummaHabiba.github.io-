@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Tribute Page
+date: 2024-10-06
+external_link: https://github.com/Umma-Habiba-Eti/Lab-8/tree/main/TributePage
 tags:
-  - Hugo
+  - Free Code Camp
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+"This is a Tribute page on Palli Kabi Jasim Uddin competed by me where you can know about him."
 
 <!--more-->
