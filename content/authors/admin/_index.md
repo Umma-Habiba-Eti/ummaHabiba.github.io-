@@ -98,7 +98,7 @@ languages:
   - name: Bangla
     percent: 100
   - name: English
-    percent: 75
+    percent: 75
 
 ---
 
