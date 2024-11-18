@@ -6,10 +6,6 @@ title: Umma Habiba
 first_name: Umma 
 last_name: Habiba
 
-# Status emoji
-status:
-  icon: 👩
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -95,8 +91,7 @@ skills:
         icon: person-simple-walk
       - name: Cooking
         description: ''
-        percent: 100
-        icon:🍳 
+        percent: 100 
       - name: Photography
         description: ''
         percent: 80
@@ -104,7 +99,6 @@ skills:
       - name: Gardening
         description: ''
         percent: 80
-        icon: 🌼
         
 
 languages:
