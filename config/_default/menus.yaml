@@ -24,4 +24,4 @@ main:
     weight: 30
   - name: Contact
     url: teaching/
-    weight: 40
+    weight: 50
