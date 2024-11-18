@@ -68,7 +68,7 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: C/C++
+      - name: C++
         description: ''
         percent: 80
         icon: code-bracket
