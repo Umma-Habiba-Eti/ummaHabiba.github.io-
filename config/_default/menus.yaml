@@ -13,10 +13,10 @@ main:
   #- name: Talks
    # url: /#talks
    # weight: 12
-  - name: CV
-    url: /#news
-    weight: 40
-  - name: Experience
+  #- name: CV
+   # url: /#news
+   # weight: 40
+  - name: Qualifications
     url: experience/
     weight: 20
   - name: Projects
