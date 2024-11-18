@@ -1,7 +1,7 @@
 ---
 title: Product Landing Page
 date: 2024-10-26
-external_link: https: https://github.com/Umma-Habiba-Eti/Lab-10/tree/main/ProductLandingPage
+external_link: https://github.com/Umma-Habiba-Eti/Lab-10/tree/main/ProductLandingPage
 tags:
   - Free Code Camp
   - Wowchemy
