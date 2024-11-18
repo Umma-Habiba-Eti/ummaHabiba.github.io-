@@ -72,7 +72,7 @@ skills:
       - name: IOT
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: 🦾
       - name: SQL
         description: ''
         percent: 40
