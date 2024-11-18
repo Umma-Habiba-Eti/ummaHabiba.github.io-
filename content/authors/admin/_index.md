@@ -72,7 +72,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-        - name: Java
+     - name: Java
         description: ''
         percent: 80
         icon: code-bracket
@@ -111,10 +111,8 @@ languages:
   - name: Bangla
     percent: 100
   - name: English
-    percent: 100
-  - name: Hindi
-    percent: 50
----
+    percent: 80
+
 
 ## About Me
 I'm Umma Habiba, a Computer Science and Engineering student at Jahangirnagar University. As a member of the Robotics Club, I’ve worked on projects like Line Follower Robots (LFR), Robo Soccer, and Bluetooth-controlled robots. I also have hands-on experience in IoT and Full-Stack Web Development, having completed courses in Robotics, MERN stack, and Frontend Development through platforms like FreeCodeCamp.
