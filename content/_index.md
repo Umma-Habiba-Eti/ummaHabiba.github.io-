@@ -11,7 +11,7 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within content/authors/)
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
@@ -23,7 +23,7 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to assets/media/.
+          # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -35,11 +35,11 @@ sections:
       title: '📚 My Goal'
       subtitle: ''
       text: |-
-        I am committed to becoming a proficient data scientist, specializing in data processing and machine learning. My objective is to leverage the power of data to extract meaningful insights, develop innovative solutions, and drive impactful advancements across diverse industries.With a strong foundation in analytical methodologies and programming, I am focused on exploring the transformative potential of machine learning and artificial intelligence in optimizing processes, enhancing decision-making, and solving complex challenges.
+        As a Computer Science student, I aim to build a strong technical foundation and specialize in cybersecurity to create impactful solutions for data safety. My focus is on gaining hands-on experience, contributing to innovative projects, and preparing to make a meaningful impact in the tech industry.
     
-        I continuously strive to expand my knowledge and refine my expertise to excel in the evolving field of data science.
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
-        I welcome opportunities for collaboration to push the boundaries of innovation and create meaningful impact.
+        Please reach out to collaborate 😃
     design:
       columns: '1'
  
@@ -62,8 +62,13 @@ sections:
       text: |-
         You can reach me out here
     
-          email:ummahabibaeti@gmail.com   
-          phone:01719186576    
-          GitHub:https://github.com/Umma-Habiba-Eti
-
-    ---
+          email: parvinsultana@gmail.com    
+          phone:017****66    
+          facebook: https://www.facebook.com/faria.sultana.18041
+          LinkedIn: https://www.linkedin.com/
+          GitHub: https://github.com/Ananya394
+    
+    design:     
+      columns: 1
+  
+---
