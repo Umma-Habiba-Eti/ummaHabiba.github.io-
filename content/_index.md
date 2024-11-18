@@ -62,8 +62,8 @@ sections:
       text: |-
         You can reach me out here
     
-          email: ummahabibaeti@gmail.com   
+          email:ummahabibaeti@gmail.com   
           phone:01719186576    
-          GitHub: https://github.com/Umma-Habiba-Eti
+          GitHub:https://github.com/Umma-Habiba-Eti
   
 ---
