@@ -96,7 +96,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 100
-        icon:Pot of Food 
+        icon:🍳 
       - name: Photography
         description: ''
         percent: 80
@@ -104,7 +104,7 @@ skills:
       - name: Gardening
         description: ''
         percent: 80
-        icon: Cherry Blossom
+        icon: 🌼
         
 
 languages:
