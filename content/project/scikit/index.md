@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: Product Landing Page
+date: 2024-10-26
 external_link: https://github.com/scikit-learn/scikit-learn
 tags:
-  - Hugo
+  - Free Code Camp
   - Wowchemy
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+"This page made by me with html,CSS is for product landing which contains some features about the product and also have the video"
 
 <!--more-->
