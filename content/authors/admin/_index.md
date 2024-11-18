@@ -72,7 +72,7 @@ skills:
       - name: IOT
         description: ''
         percent: 100
-        icon: 🦾
+        icon: chart-bar
       - name: SQL
         description: ''
         percent: 40
@@ -85,10 +85,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cooking
         description: ''
         percent: 100
-        icon: cat
+        icon: Cat
       - name: Photography
         description: ''
         percent: 80
@@ -98,7 +98,7 @@ languages:
   - name: Bangla
     percent: 100
   - name: English
-    percent: 75
+    percent: 80
 
 ---
 
