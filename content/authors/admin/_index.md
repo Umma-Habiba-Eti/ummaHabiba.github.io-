@@ -60,19 +60,16 @@ education:
     GPA: 5.0/5.0
 
 
-# Add your own SVG icons to `assets/media/icons/`
+# Skills
+# Add your own SVG icons to assets/media/icons/
 skills:
   - name: Technical Skills
     items:
-      - name: C++
+      - name: Web Development
         description: ''
         percent: 80
         icon: code-bracket
-     - name: Java
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: IOT
         description: ''
         percent: 100
         icon: chart-bar
@@ -80,7 +77,6 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -89,25 +85,23 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cooking
+      - name: Cats
         description: ''
-        percent: 100 
+        percent: 100
+        icon: cat
       - name: Photography
         description: ''
         percent: 80
         icon: camera
-      - name: Gardening
-        description: ''
-        percent: 80
-        
 
 languages:
   - name: Bangla
     percent: 100
   - name: English
-    percent: 80
+    percent: 75
 
 ---
+
 ## About Me
 I'm Umma Habiba, a Computer Science and Engineering student at Jahangirnagar University. As a member of the Robotics Club, I’ve worked on projects like Line Follower Robots (LFR), Robo Soccer, and Bluetooth-controlled robots. I also have hands-on experience in IoT and Full-Stack Web Development, having completed courses in Robotics, MERN stack, and Frontend Development through platforms like FreeCodeCamp.
 
