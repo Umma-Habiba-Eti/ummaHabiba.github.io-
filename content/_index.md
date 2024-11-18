@@ -35,9 +35,7 @@ sections:
       title: '📚 My Goal'
       subtitle: ''
       text: |-
-        As a Computer Science student, I aim to build a strong technical foundation and specialize in cybersecurity to create impactful solutions for data safety. My focus is on gaining hands-on experience, contributing to innovative projects, and preparing to make a meaningful impact in the tech industry.
-    
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        As a passionate Computer Science student, my goal is to contribute to the advancement of robotics and machine learning by developing intelligent systems that can solve real-world problems. I aim to deepen my expertise in artificial intelligence, control systems, and embedded technologies, while leveraging my creativity and technical skills to design innovative and autonomous robotic solutions. By combining the power of robotics and machine learning, I aspire to work on projects that enhance automation, improve human lives, and pave the way for cutting-edge technological breakthroughs
         
         Please reach out to collaborate 😃
     design:
@@ -62,11 +60,9 @@ sections:
       text: |-
         You can reach me out here
     
-          email: parvinsultana@gmail.com    
-          phone:017****66    
-          facebook: https://www.facebook.com/faria.sultana.18041
-          LinkedIn: https://www.linkedin.com/
-          GitHub: https://github.com/Ananya394
+          email: ummahabibaeti@gmail.com    
+          phone:017****76    
+          GitHub: https://github.com/Umma-Habiba-Eti
     
     design:     
       columns: 1
