@@ -1,9 +1,9 @@
 ---
-title: Pandas
+title: Survey Form
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/Umma-Habiba-Eti/lab-6/tree/main/SurveyForm
 tags:
-  - Hugo
+  - Free Code Camp
   - Wowchemy
   - Markdown
 ---
