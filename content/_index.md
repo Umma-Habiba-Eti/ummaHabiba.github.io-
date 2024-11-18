@@ -62,11 +62,8 @@ sections:
       text: |-
         You can reach me out here
     
-          email: ummeanom@gmail.com    
-          phone:017********    
-          GitHub: https://github.com/nupuranom
-    
-    design:     
-      columns: 1
+          email: ummahabibaeti@gmail.com   
+          phone:01719186576    
+          GitHub: https://github.com/Umma-Habiba-Eti
   
 ---
