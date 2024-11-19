@@ -23,5 +23,5 @@ main:
     url: projects/
     weight: 30
   - name: Contact
-    url: teaching/
+    url: com/
     weight: 50
